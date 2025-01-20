@@ -1,0 +1,20 @@
+CipherComm Project in Python
+Encoding is the process of converting text into an incognizable language and the reverse process in decoding. In this project, we will be using the Tkinter module and base64 module to do the required operations.
+
+In this,
+
+1) The user first enters the message and key
+2) And choose one of the encode or decode options
+3) Based on the choice the corresponding operation is done
+4) It is to be noted that the same key used for encryption needs to be used during the decryption.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Project File Structure
+Steps for building the python message encryption decryption project:
+
+1. Installing the required modules
+2. Importing the modules
+3. Writing function for encryption
+4. Writing function for decryption
+5. Creating the window
+6. Adding the input and output components
+7. Adding the buttons and their functions
